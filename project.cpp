@@ -11,8 +11,8 @@
 
 int main()
 {
-    int a = 10;
-    printf("The value of a is:%d", a);
+    int b = 10;
+    printf("The value of a is:%d", b);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
