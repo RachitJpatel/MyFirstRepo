@@ -11,7 +11,6 @@
 
 int main()
 {
-    std::cout << "Hello World\n";
     std::cout << "welcome to c language\n";
 }
 
