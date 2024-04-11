@@ -7,11 +7,12 @@
 * program: program will display the hello world
 * date: 09/04/2024
 */
-#include <iostream>
+#include <stdio.h>
 
 int main()
 {
-    std::cout << "welcome to c language\n";
+    int a = 10;
+    printf("The value of a is:%d", a);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
